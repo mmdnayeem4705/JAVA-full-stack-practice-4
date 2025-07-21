@@ -73,9 +73,6 @@ server.port=2330[Optional] <br>
 
 
 
-## WorkFlow :
-
-![workflow](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/aea72470-49c8-41a4-8974-48737638ae19)
 
 
 
@@ -111,6 +108,7 @@ server.port=2330[Optional] <br>
 
 ![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
 
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/756ac2b6-5d15-4098-8c0b-ec8e153dd2ad" />
 
 ### Exception page
 
