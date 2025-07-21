@@ -1,6 +1,7 @@
 # Business Management Web Application : <br>
 
-![home (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e8db8f17-72d6-42a0-b264-def0bf883bbf)
+
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/3452ce38-21f1-4dd9-9874-ffe70a40df45" />
 
 
 
@@ -71,45 +72,13 @@ spring.jpa.hibernate.ddl-auto=update <br>
 server.port=2330[Optional] <br>
 
 
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/8fdc4a1e-c2db-4891-b8f3-e1d905d769e8" />
+
+
+
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/bd229f2b-dcd9-416f-9f62-9396eecc592f" />
 
 
 
 
 
-
-
-## Preview :
-
-
-#### Products 
-
-![products (2)](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/0496f63a-f30c-4108-91a7-966bd37b2b54)
-
-
-#### Location 
-
-![locateus](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/30e40d74-d2f0-48cb-91b3-ea515f12c498)
-
-
-
-#### Login Page
-
-![logins](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/9c1efb48-5b23-4a43-8c96-81d55a7b1180)
-
-
-
-
-#### AdminPanel
-
-![adminpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/b89aa5ee-3f7f-4145-b063-048729e7fbe9)
-
-
-#### UserPanel 
-
-![userpanel](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/e0f81692-c049-4a2f-a78d-30d3906f4429)
-
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/756ac2b6-5d15-4098-8c0b-ec8e153dd2ad" />
-
-### Exception page
-
-![exceptionPage](https://github.com/SuhasKamate/Business_Management_Project/assets/126138738/4349a429-61ff-4ecd-a463-2900874e1ea5)
